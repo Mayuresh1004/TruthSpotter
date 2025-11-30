@@ -6,9 +6,9 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Navbar } from "@/components/Navbar";
 
 const stats = [
-  { label: "Claims processed", value: "2.3M+" },
-  { label: "Avg. verdict time", value: "28s" },
-  { label: "Global partners", value: "42" },
+  { label: "Accuracy", value: "95%" },
+  { label: "Avg. verdict time", value: "20s" },
+  { label: "Trusted Agents", value: "7" },
 ];
 
 const features = [
